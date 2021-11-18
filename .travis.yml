@@ -11,3 +11,5 @@ deploy: &heroku
   app:
     main: ci-homework-stage-fvp
     production: ci-homework-prod-fvp
+notifications:
+  slack: praxisunal:mPGy5SOiYGn9nnEJ1xrxFNnE
